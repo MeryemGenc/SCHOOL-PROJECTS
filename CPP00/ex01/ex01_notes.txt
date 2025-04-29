@@ -1,0 +1,17 @@
+
+
+
+
+
+    -> get_field(contacts[i].get_name())
+
+    -> std::right: C++'da kullanılan bir manipülatördür ve veriyi çıktıyı düzeltirken sağa hizalamak için kullanılır. Manipülatörler, iostream kütüphanesi içinde tanımlanır ve giriş/çıkış işlemlerini yönlendirmek için kullanılır. verinin bir hücre içinde sağa doğru hizalanmasını sağlar. Özellikle, std::setw ile birlikte kullanıldığında, belirli bir genişlikteki bir hücre içinde verinin sağa dayalı olarak görüntülenmesini sağlar. boşluk karakterleriyle sol taraf doldurulur.
+
+    -> std::setw(10): Bu örnekte, std::setw(10) ile number değişkeninin çıktı genişliği 10 karakter olarak ayarlanır. Yani, number, bir hücre içinde 10 karakter genişliğinde görüntülenir. Eğer veri bu genişlikten daha kısa ise, sağa doğru hizalanır ve boşluk karakterleri sol tarafta doldurulur. Eğer veri bu genişlikten daha uzunsa, hücre genişliği otomatik olarak genişletilir. tek başına kullanılırsa metinleri sola hizalar- sağda boşluk bırakır..
+
+    -> c++ de başka hangi manipülatörler vardır????
+    -> std::setw(10) - 10 karakterden büyük stringlerde ne yapıyor? BAK
+    -> program 10 karakterden büyük stringlerde ne yapıyor? BAK
+    -> atoi() => diziden çeviriyor => ama c++ ta string 1 dizi değil veri tipi . => bu nedenle stoi()
+
+    
